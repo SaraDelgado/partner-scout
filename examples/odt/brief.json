@@ -1,0 +1,13 @@
+{
+  "sender": "Sara Delgado, founder of One Day Trip Mexico City",
+  "offer": "Curated, door-to-door day trips from Mexico City for international visitors, with executive transport and every detail handled.",
+  "looking_for": "Haciendas, spas and craft workshops within a day trip of Mexico City that could host small groups of our guests.",
+  "language": "Spanish",
+  "criteria": [
+    {"name": "niche_fit", "weight": 3, "description": "Offers a design, craft, wellness or off-the-beaten-path experience that matches a curated audience."},
+    {"name": "international_ready", "weight": 2, "description": "Shows it can serve international visitors, for example English content or foreign guests."},
+    {"name": "small_groups", "weight": 2, "description": "Shows it can host private visits or small groups by reservation."},
+    {"name": "day_trip_access", "weight": 2, "description": "Its location is stated and works as a round trip from Mexico City in one day."},
+    {"name": "easy_to_contact", "weight": 1, "description": "Shows a direct contact route such as email, WhatsApp or a reservations team."}
+  ]
+}
